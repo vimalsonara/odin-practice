@@ -1,0 +1,16 @@
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+}
+
+.box div {
+    background-color: blue;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+
+}
